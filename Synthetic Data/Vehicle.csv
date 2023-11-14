@@ -1,0 +1,101 @@
+Truck_ID,Truck_Type,Truck_Model,Unit_Price
+1,Semi-truck,Model X,60000
+2,Pickup Truck,Model Y,30000
+3,Dump Truck,Model Z,75000
+4,Box Truck,Model W,45000
+5,Delivery Van,Model V,35000
+6,Delivery Van,Model V,35000
+7,Semi-truck,Model X,60000
+8,Semi-truck,Model Y,61000
+9,Semi-truck,Model Z,62000
+10,Semi-truck,Model W,63000
+11,Semi-truck,Model V,64000
+12,Pickup Truck,Model Y,30000
+13,Pickup Truck,Model Y,30000
+14,Pickup Truck,Model Y,30000
+15,Pickup Truck,Model Y,30000
+16,Pickup Truck,Model Y,30000
+17,Pickup Truck,Model X,60000
+18,Pickup Truck,Model Y,30000
+19,Pickup Truck,Model Z,75000
+20,Pickup Truck,Model W,45000
+21,Pickup Truck,Model V,35000
+22,Semi-truck,Model X,60000
+23,Pickup Truck,Model Y,30000
+24,Dump Truck,Model Z,75000
+25,Box Truck,Model W,45000
+26,Delivery Van,Model V,35000
+27,Delivery Van,Model V,35000
+28,Semi-truck,Model X,60000
+29,Semi-truck,Model Y,61000
+30,Semi-truck,Model Z,62000
+31,Semi-truck,Model W,63000
+32,Semi-truck,Model V,64000
+33,Pickup Truck,Model Y,30000
+34,Pickup Truck,Model Y,30000
+35,Pickup Truck,Model Y,30000
+36,Pickup Truck,Model Y,30000
+37,Pickup Truck,Model Y,30000
+38,Pickup Truck,Model X,60000
+39,Pickup Truck,Model Y,30000
+40,Pickup Truck,Model Z,75000
+41,Pickup Truck,Model W,45000
+42,Pickup Truck,Model V,35000
+43,Semi-truck,Model X,60000
+44,Pickup Truck,Model Y,30000
+45,Dump Truck,Model Z,75000
+46,Box Truck,Model W,45000
+47,Delivery Van,Model V,35000
+48,Delivery Van,Model V,35000
+49,Semi-truck,Model X,60000
+50,Semi-truck,Model Y,61000
+51,Semi-truck,Model Z,62000
+52,Semi-truck,Model W,63000
+53,Semi-truck,Model V,64000
+54,Pickup Truck,Model Y,30000
+55,Pickup Truck,Model Y,30000
+56,Pickup Truck,Model Y,30000
+57,Pickup Truck,Model Y,30000
+58,Pickup Truck,Model Y,30000
+59,Pickup Truck,Model X,60000
+60,Pickup Truck,Model Y,30000
+61,Pickup Truck,Model Z,75000
+62,Pickup Truck,Model W,45000
+63,Pickup Truck,Model V,35000
+64,Semi-truck,Model X,60000
+65,Pickup Truck,Model Y,30000
+66,Dump Truck,Model Z,75000
+67,Box Truck,Model W,45000
+68,Delivery Van,Model V,35000
+69,Delivery Van,Model V,35000
+70,Semi-truck,Model X,60000
+71,Semi-truck,Model Y,61000
+72,Semi-truck,Model Z,62000
+73,Semi-truck,Model W,63000
+74,Semi-truck,Model V,64000
+75,Pickup Truck,Model Y,30000
+76,Pickup Truck,Model Y,30000
+77,Pickup Truck,Model Y,30000
+78,Pickup Truck,Model Y,30000
+79,Pickup Truck,Model Y,30000
+80,Pickup Truck,Model X,60000
+81,Pickup Truck,Model Y,30000
+82,Pickup Truck,Model Z,75000
+83,Pickup Truck,Model W,45000
+84,Pickup Truck,Model V,35000
+85,Semi-truck,Model X,60000
+86,Pickup Truck,Model Y,30000
+87,Dump Truck,Model Z,75000
+88,Box Truck,Model W,45000
+89,Delivery Van,Model V,35000
+90,Delivery Van,Model V,35000
+91,Semi-truck,Model X,60000
+92,Semi-truck,Model Y,61000
+93,Semi-truck,Model Z,62000
+94,Semi-truck,Model W,63000
+95,Semi-truck,Model V,64000
+96,Pickup Truck,Model Y,30000
+97,Pickup Truck,Model Y,30000
+98,Pickup Truck,Model Y,30000
+99,Pickup Truck,Model Y,30000
+100,Pickup Truck,Model Y,30000
